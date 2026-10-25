@@ -1,0 +1,7 @@
+Powered component,Operating voltage,Nominal current,Stall current
+,,,
+ESP32 microcontroller+ IR sensors,3.3V,150 mA,250 mA
+"Left GA12- N20 motor (600 rpm, 12V)",12V,100 mA,750 mA
+"Right GA12- N20 motor (600 rpm, 12V)",12V,100mA,750 mA
+,,,
+Total supplied by the battery,12V,350 mA,1.75 Ampere

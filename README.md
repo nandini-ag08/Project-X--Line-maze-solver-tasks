@@ -157,4 +157,3 @@ maze. Every control loop streams `S1,S2,S3,S4,S5,error,motorL,motorR` over seria
 - STMicroelectronics, *L298 Dual Full-Bridge Driver Datasheet*
 - Arduino-ESP32 documentation: <https://docs.espressif.com/projects/arduino-esp32/>
 - Task sheet: *LMS / Meshmerize — Fresher Selection Tasks*, including Appendix A
-- `<add any supplier pages or other sources you used>`

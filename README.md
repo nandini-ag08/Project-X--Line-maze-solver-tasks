@@ -3,9 +3,6 @@
 Submission for all nine selection tasks: an ESP32 line-following and maze-solving robot, covering
 component selection, power design, wiring, diagnostics, algorithms and working firmware.
 
-**Author:** `<your name>`
-**Contact:** `<your email>`
-
 ---
 
 ## Repository structure

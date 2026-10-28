@@ -38,7 +38,7 @@ component selection, power design, wiring, diagnostics, algorithms and working f
 | 6 | Electronics & Hardware | [`BOM/Wiring Diagram Task-6.jpeg`](BOM/Wiring%20Diagram%20Task-6.jpeg); troubleshooting analysis in [`docs/Notes.pdf`](docs/Notes.pdf) |
 | 7 | Wireless Sensor Diagnostics | [`BOM/Task-7 Data flow.jpeg`](BOM/Task-7%20Data%20flow.jpeg); protocol justification in [`docs/Notes.pdf`](docs/Notes.pdf) |
 | 8 | Maze-Solving Algorithms | [`BOM/Task-8 example maze diagram.jpeg`](BOM/Task-8%20example%20maze%20diagram.jpeg); analysis in [`docs/Notes.pdf`](docs/Notes.pdf); pseudocode in [`src/Task 8 pseudo code.cpp`](src/Task%208%20pseudo%20code.cpp) |
-| 9 | LMS Implementation Challenge | [`src/maze_dfs_line_follower_final code.ino`](src/maze_dfs_line_follower_final%20code.ino); PID tuning notes in the file header and [`docs/Notes.pdf`](docs/Notes.pdf) |
+| 9 | LMS Implementation Challenge | [`src/maze_dfs_line_follower_final code.ino`](src/maze_dfs_line_follower_final%20code.ino) |
 
 ## File guide
 
